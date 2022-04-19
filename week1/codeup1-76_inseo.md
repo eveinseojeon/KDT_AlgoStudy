@@ -17,15 +17,15 @@
   - 8진법
 
     ```python
-  print('%o'%n) # n에 저장되어 있는 값을 8진수(octal) 형태 문자열로 출력
+    print('%o'%n) # n에 저장되어 있는 값을 8진수(octal) 형태 문자열로 출력
     ```
 
   - 16진법
   
     ```python
-  print('%x'%n) # n에 저장되어 있는 값을 16진수(hexadecimal) 소문자 형태 문자열로 출력
+    print('%x'%n) # n에 저장되어 있는 값을 16진수(hexadecimal) 소문자 형태 문자열로 출력
     print('%X'%n) # n에 저장되어 있는 값을 16진수(hexadecimal) 대문자 형태 문자열로 출력
-  ```
+    ```
 
 
 

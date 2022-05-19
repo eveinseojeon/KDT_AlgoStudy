@@ -56,3 +56,5 @@
 | 5주차 (220513-220519) | [BOJ](https://www.acmicpc.net/)       | [유기농 배추(1012)](https://www.acmicpc.net/problem/1012), [연결 요소의 개수(11724)](https://www.acmicpc.net/problem/11724), [트리의 부모 찾기(11725)](https://www.acmicpc.net/problem/11725), [숨바꼭질(1697)](https://www.acmicpc.net/problem/1697), [섬의 개수(4963)](https://www.acmicpc.net/problem/4963) | 실버 1-2 | [Search(BFS)](https://www.acmicpc.net/problem/tag/126)       | 박형준      |
 | 6주차 (220520-220526) | [BOJ](https://www.acmicpc.net/)       | [계단오르기(2579)](https://www.acmicpc.net/problem/2579), [2XN(11726)](https://www.acmicpc.net/problem/11726),  [퇴사2(15486)](https://www.acmicpc.net/problem/15486), [점프(1890)](https://www.acmicpc.net/problem/1890) ,[가장 긴 감소하는 부분 수열(11722)](https://www.acmicpc.net/problem/11722) | 실버1-3  | [Dynamic Programming](https://www.acmicpc.net/problem/tag/25) | 형한결      |
 
+
+abc

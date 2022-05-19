@@ -45,8 +45,6 @@
 
 - 매주 목요일 19시
 
-
-
 ## ✔ 진행 내용
 
 | 주차                  | 사이트                                | 문제                                                         | 레벨     | 알고리즘 유형                                                | 문제 선정자 |
@@ -54,9 +52,7 @@
 | 1주차 (220415-220421) | [CodeUp](https://codeup.kr/index.php) | Python 기초 100제 1-76번                                     |          |                                                              |             |
 | 2주차 (220422-220428) | [CodeUp](https://codeup.kr/index.php) | Python 기초 100제 77-98번                                    |          |                                                              |             |
 | 3주차 (220429-220505) | [BOJ](https://www.acmicpc.net/)       | [뒤집기(1439)](https://www.acmicpc.net/problem/1439), [이장님 초대(9237)](https://www.acmicpc.net/problem/9237), [보물(1026)](https://www.acmicpc.net/problem/1026), [로프(2217)](https://www.acmicpc.net/problem/2217), [동전 0(11047)](https://www.acmicpc.net/problem/11047) | 실버 3-5 | [Greedy](https://www.acmicpc.net/problem/tag/33)             | 전인서      |
-| 4주차 (220506-220512) | [BOJ](https://www.acmicpc.net/)       | [반복수열(2331)](https://www.acmicpc.net/problem/2331), [바이러스(2606)](https://www.acmicpc.net/problem/2606), [DFS와 BFS(1260)](https://www.acmicpc.net/problem/1260), [아기 상어 2(17086)](https://www.acmicpc.net/problem/17086), [촌수계산(2644)](https://www.acmicpc.net/problem/2644) | 실버 2-4  | [Search(DFS)](https://www.acmicpc.net/problem/tag/127)       | 김원빈      |
+| 4주차 (220506-220512) | [BOJ](https://www.acmicpc.net/)       | [반복수열(2331)](https://www.acmicpc.net/problem/2331), [바이러스(2606)](https://www.acmicpc.net/problem/2606), [DFS와 BFS(1260)](https://www.acmicpc.net/problem/1260), [아기 상어 2(17086)](https://www.acmicpc.net/problem/17086), [촌수계산(2644)](https://www.acmicpc.net/problem/2644) | 실버 2-4 | [Search(DFS)](https://www.acmicpc.net/problem/tag/127)       | 김원빈      |
 | 5주차 (220513-220519) | [BOJ](https://www.acmicpc.net/)       | [유기농 배추(1012)](https://www.acmicpc.net/problem/1012), [연결 요소의 개수(11724)](https://www.acmicpc.net/problem/11724), [트리의 부모 찾기(11725)](https://www.acmicpc.net/problem/11725), [숨바꼭질(1697)](https://www.acmicpc.net/problem/1697), [섬의 개수(4963)](https://www.acmicpc.net/problem/4963) | 실버 1-2 | [Search(BFS)](https://www.acmicpc.net/problem/tag/126)       | 박형준      |
-| 6주차 (220520-220526) | [BOJ](https://www.acmicpc.net/)       |                                                              |          | [Dynamic Programming](https://www.acmicpc.net/problem/tag/25) | 형한결      |
-
-
+| 6주차 (220520-220526) | [BOJ](https://www.acmicpc.net/)       | [계단오르기(2579)](https://www.acmicpc.net/problem/2579), [2XN(11726)](https://www.acmicpc.net/problem/11726),  [퇴사2(15486)](https://www.acmicpc.net/problem/15486), [점프(1890)](https://www.acmicpc.net/problem/1890) ,[가장 긴 감소하는 부분 수열(11722)](https://www.acmicpc.net/problem/11722) | 실버1-3  | [Dynamic Programming](https://www.acmicpc.net/problem/tag/25) | 형한결      |
 

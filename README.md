@@ -59,12 +59,12 @@
 | 7주차<br />(220603-220609)    | [BOJ](https://www.acmicpc.net/)       | [회의실 배정(1931)](https://www.acmicpc.net/problem/1931), [신입사원(1946)](https://www.acmicpc.net/problem/1946), [맥주 마시면서 걸어가기(9205)](https://www.acmicpc.net/problem/9205), [A → B(16953)](https://www.acmicpc.net/problem/16953), [1로 만들기(1463)](https://www.acmicpc.net/problem/1463), [연속합(1912)](https://www.acmicpc.net/problem/1912) | 실버 1-3 | [Greedy](https://www.acmicpc.net/problem/tag/33),<br />[Search(DFS&BFS)](https://www.acmicpc.net/problem/tag/126),<br />[Dynamic Programming](https://www.acmicpc.net/problem/tag/25) | 전인서      |
 | 8주차<br />(220610-220616)    | [BOJ](https://www.acmicpc.net/)       | [걷기(1459)](https://www.acmicpc.net/problem/1459), [흙길 보수하기(1911)](https://www.acmicpc.net/problem/1911), [바닥장식(1388)](https://www.acmicpc.net/problem/1388), [효율적인 해킹(1325)](https://www.acmicpc.net/problem/1325), [돌게임(9655)](https://www.acmicpc.net/problem/9655), [2×n 타일링 2(11727)](https://www.acmicpc.net/problem/11727) | 실버1-5  | [Greedy](https://www.acmicpc.net/problem/tag/33),<br />[Search(DFS&BFS)](https://www.acmicpc.net/problem/tag/126),<br />[Dynamic Programming](https://www.acmicpc.net/problem/tag/25) | 김원빈      |
 | ~~휴식<br />(220617-220623)~~ |        |  |          |  |             |
-| 9주차<br />(220624-220630) | [BOJ](https://www.acmicpc.net/)       | [ATM(11399)](https://www.acmicpc.net/problem/11399), [수리공 항승(1449)](https://www.acmicpc.net/problem/1449), [미로탐색(2178)](https://www.acmicpc.net/problem/2178), [그림(1926)](https://www.acmicpc.net/problem/1926), [돌 게임 3(9657)](https://www.acmicpc.net/problem/9657), [상자넣기(1965)](https://www.acmicpc.net/problem/1965) | 실버1-4 | [Greedy](https://www.acmicpc.net/problem/tag/33),<br />[Search(DFS&BFS)](https://www.acmicpc.net/problem/tag/126),<br />[Dynamic Programming](https://www.acmicpc.net/problem/tag/25) | 박형준 |
-| 10주차<br />(220701-220707) | [BOJ](https://www.acmicpc.net/) |  |  |  | 형한결 |
-| 11주차<br />(220708-220714) |  |  |  |  | 전인서 |
-| 12주차<br />(220715-220721) |  |  |  |  | 김원빈 |
-| 13주차<br />(220722-220728) |  |  |  |  | 박형준 |
-| 14주차<br />(220729-220804) |  |  |  |  | 형한결 |
+| ~~휴식<br />(220624-220630)~~ |        |  |  |  |  |
+| 9주차<br />(220701-220707) | [BOJ](https://www.acmicpc.net/) | [ATM(11399)](https://www.acmicpc.net/problem/11399), [수리공 항승(1449)](https://www.acmicpc.net/problem/1449), [미로탐색(2178)](https://www.acmicpc.net/problem/2178), [그림(1926)](https://www.acmicpc.net/problem/1926), [돌 게임 3(9657)](https://www.acmicpc.net/problem/9657), [상자넣기(1965)](https://www.acmicpc.net/problem/1965) | 실버1-4 | [Greedy](https://www.acmicpc.net/problem/tag/33),<br />[Search(DFS&BFS)](https://www.acmicpc.net/problem/tag/126),<br />[Dynamic Programming](https://www.acmicpc.net/problem/tag/25) | 박형준 |
+| 10주차<br />(220708-220714) |  |  |  |  | 형한결 |
+| 11주차<br />(220715-220721) |  |  |  |  | 전인서 |
+| 12주차<br />(220722-220728) |  |  |  |  | 김원빈      |
+| 13주차<br />(220729-220804) |  |  |  |  | 박형준 |
 
 
 
